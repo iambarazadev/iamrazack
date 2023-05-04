@@ -1,0 +1,130 @@
+@media (min-width : 1200px){
+    .LandingHead{
+        font-size: 3.5rem;
+        font-weight: lighter;
+    }
+    
+    .LandingHead span{
+        font-size: 6rem;
+    }
+    
+    .MyImage{
+        width: 18rem;
+        height: auto;
+    }
+}
+@media (min-width : 991px){
+    .LandingHead{
+        font-size: 2.7rem;
+        font-weight: lighter;
+    }
+    
+    .LandingHead span{
+        font-size: 5rem;
+    }
+    
+    .MyImage{
+        width: 14rem;
+        height: auto;
+    }
+}
+
+@media (max-width : 990px){
+    .LandingHead{
+        font-size: 2.5rem;
+        font-weight: lighter;
+    }
+    
+    .LandingHead span{
+        font-size: 5rem;
+    }
+    
+    .MyImage{
+        width: 14rem;
+        height: auto;
+    }
+}
+
+@media (max-width : 450px){
+    .LandingHead{
+        font-size: 2rem;
+        font-weight: lighter;
+    }
+    
+    .LandingHead span{
+        font-size: 4rem;
+    }
+    
+    .MyImage{
+        width: 12rem;
+        height: auto;
+    }
+}
+
+@media (max-width : 350px){
+    .LandingHead{
+        font-size: 1.8rem;
+        font-weight: lighter;
+    }
+    
+    .LandingHead span{
+        font-size: 3.5rem;
+    }
+    
+    .MyImage{
+        width: 10rem;
+        height: auto;
+    }
+}
+
+@media (max-width : 320px){
+    .LandingHead{
+        font-size: 8vw;
+        font-weight: lighter;
+    }
+    
+    .LandingHead span{
+        font-size: 12vw;
+    }
+    
+    .MyImage{
+        width: 33vw;
+        height: auto;
+    }
+}
+
+
+@media (max-width: 1183px) {
+ 
+}
+
+@media (max-width: 990px) {
+
+}
+
+@media (max-width: 769px) {
+    
+}
+
+@media (max-width: 571px) {
+    
+}
+
+@media (max-width: 481px) {
+
+}
+
+@media (max-width: 441px) {
+ 
+}
+@media (max-width: 321px) {
+
+}
+
+@media (max-width: 281px) {
+
+}
+
+@media (max-width: 241px) {
+
+}
